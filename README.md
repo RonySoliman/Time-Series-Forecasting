@@ -15,4 +15,6 @@ In case you want a clear comprehensive tutorial feel free to check this video:
 
 
 **`YouTube Video`**<br><br><i>Clickable Link 👇</i><br><br>
-<b>[![Watch the video]](https://youtu.be/Y7KCMaBDeDM)</b>
+
+
+[![Watch the video](https://img.youtube.com/vi/Y7KCMaBDeDM/hqdefault.jpg)](https://www.youtube.com/watch?v=Y7KCMaBDeDM)
