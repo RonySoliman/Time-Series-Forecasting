@@ -15,4 +15,4 @@ In case you want a clear comprehensive tutorial feel free to check this video:
 
 
 **`YouTube Video`**<br><br><i>Clickable Link 👇</i><br><br>
-<b>[![Watch the video](https://i.ytimg.com/vi/zwgsjNlmRCU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAGn1pN3VTrbueSl307McFG6-Izpw)](https://youtu.be/Y7KCMaBDeDM)</b>
+<b>[![Watch the video]](https://youtu.be/Y7KCMaBDeDM)</b>
