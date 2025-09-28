@@ -1,6 +1,25 @@
-# Time Series Forecasting
+<h1>
+  <a href="https://youtube.com/playlist?list=PL3bNln7xTqJDsXvm1kyDKiXjc51TYCvvP&si=DbyVyNBaIe0xGE_Z">
+    Time Series Forecasting Playlist
+  </a>
+</h1>
+  <i>*Clickable Link*</i>
 
-This project highlights the main <i>Time Series</i> components.
+<br>
+<br>
+
+<b>This playlist covers:</b><br>
+<ol>
+  <li>
+    Part 1: Time Series Forecasting in Python
+  </li>
+  <li>
+    Part 2: Time Series Forecasting: The Random Walk
+  </li>
+</ol>
+
+
+<b>This project highlights the main <i>Time Series</i> components.</b>
 <ol>
   <li>Trends</li>
   <li>Seasonality</li>
