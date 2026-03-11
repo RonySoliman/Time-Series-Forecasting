@@ -1,9 +1,4 @@
-<h1>
-  <a href="https://youtube.com/playlist?list=PL3bNln7xTqJDsXvm1kyDKiXjc51TYCvvP&si=DbyVyNBaIe0xGE_Z">
-    Time Series Forecasting Playlist
-  </a>
-</h1>
-  <i>*Clickable Link*</i>
+## 🌸 [Time Series Forecasting Course](https://youtube.com/playlist?list=PL3bNln7xTqJDsXvm1kyDKiXjc51TYCvvP&si=DbyVyNBaIe0xGE_Z)
 
 <br>
 <br>
@@ -33,7 +28,10 @@
 In case you want a clear comprehensive tutorial feel free to check this video:
 
 
-**`YouTube Video`**<br><br><i>Clickable Link 👇</i><br><br>
+**`YouTube Videos`**<br><br><i>Clickable Link 👇</i><br><br>
 
 
 [![Watch the video](https://img.youtube.com/vi/Y7KCMaBDeDM/hqdefault.jpg)](https://www.youtube.com/watch?v=Y7KCMaBDeDM)
+
+[![Build a Baseline & Understand the Random Walk](https://img.youtube.com/vi/Y7KCMaBDeDM/hqdefault.jpg)]([https://www.youtube.com/watch?v=Y7KCMaBDeDM](https://www.youtube.com/watch?v=_Ke54TJqY9s))
+
