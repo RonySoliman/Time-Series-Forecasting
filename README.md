@@ -31,8 +31,8 @@ In case you want a clear comprehensive tutorial feel free to check this video:
 
 -->
 
-#### **`Time Series Forecasting Course`**
-<i>Clickable Links 👇</i><br><br>
+<!--#### **`Time Series Forecasting Course`**-->
+<b>Clickable Links 👇</b><br>
 
 <!--
 [![Time Series Forecasting in Python](https://img.youtube.com/vi/Y7KCMaBDeDM/hqdefault.jpg)](https://www.youtube.com/watch?v=Y7KCMaBDeDM)
