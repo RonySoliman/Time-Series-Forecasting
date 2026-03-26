@@ -62,7 +62,7 @@ In case you want a clear comprehensive tutorial feel free to check this video:
     <td align="center">
       <a href="https://www.youtube.com/watch?v=u_P7BrYj0ws">
         <img src="https://img.youtube.com/vi/u_P7BrYj0ws/hqdefault.jpg" width="500"><br>
-        <b>Time Series Forecasting: The Random Walk Practical Guide in Python</b>
+        <b>The Random Walk Practical Guide in Python</b>
       </a>
     </td>
     <td align="center">
