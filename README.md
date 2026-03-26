@@ -68,7 +68,7 @@ In case you want a clear comprehensive tutorial feel free to check this video:
     <td align="center">
       <a href="VIDEO_LINK_4">
         <img src="THUMBNAIL_LINK_4" width="500"><br>
-        The Moving Average PRactical Guide in Python
+        <b>The Moving Average Practical Guide in Python</b>
       </a>
     </td>
   </tr>
