@@ -37,11 +37,6 @@ In case you want a clear comprehensive tutorial feel free to check this video:
 
 [![Time Series Forecasting in Python](https://img.youtube.com/vi/Y7KCMaBDeDM/hqdefault.jpg)](https://www.youtube.com/watch?v=Y7KCMaBDeDM)
 
-[![Build a Baseline & Understand the Random Walk](https://img.youtube.com/vi/_Ke54TJqY9s/hqdefault.jpg)]([https://www.youtube.com/watch?v=Y7KCMaBDeDM](https://www.youtube.com/watch?v=_Ke54TJqY9s))
+[![Build a Baseline & Understand the Random Walk](https://img.youtube.com/vi/_Ke54TJqY9s/hqdefault.jpg)](https://www.youtube.com/watch?v=_Ke54TJqY9s))
 
-[![Build a Baseline & Understand the Random Walk](https://img.youtube.com/vi/u_P7BrYj0ws/hqdefault.jpg)]([https://www.youtube.com/watch?v=Y7KCMaBDeDM](https://www.youtube.com/watch?v=u_P7BrYj0ws))
-
-<!--
-[![Build a Baseline & Understand the Random Walk](https://img.youtube.com/vi/_Ke54TJqY9s/hqdefault.jpg)]([https://www.youtube.com/watch?v=Y7KCMaBDeDM](https://www.youtube.com/watch?v=_Ke54TJqY9s))
-
--->
+[![Build a Baseline & Understand the Random Walk](https://img.youtube.com/vi/u_P7BrYj0ws/hqdefault.jpg)](https://www.youtube.com/watch?v=u_P7BrYj0ws))
