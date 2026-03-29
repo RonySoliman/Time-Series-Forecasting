@@ -1,6 +1,23 @@
 ## 🌸 [Time Series Forecasting Course](https://youtube.com/playlist?list=PL3bNln7xTqJDsXvm1kyDKiXjc51TYCvvP&si=DbyVyNBaIe0xGE_Z)
 
 <br>
+<!--
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+
+![Custom Badge](https://img.shields.io/badge/ML-Project-blue?style=for-the-badge&logo=python)
+
+![Accuracy](https://img.shields.io/badge/Accuracy-92%25-success)
+
+-->
+
 
 <b>This course covers:</b><br>
 <ol>
